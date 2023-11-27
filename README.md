@@ -9,5 +9,6 @@ As stated above, the main purpose is to show different parts of the Git Reposito
 
 ## Deployment
 Sample website with plenty of files for demos
-
+add some texts
 ## How to Contribute
+Sample website with plenty of files for demos
