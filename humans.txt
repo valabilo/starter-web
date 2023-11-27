@@ -8,8 +8,10 @@
 # THANKS
 
     To my mentor and Accenture
+    Please leave a review, Thanks
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git
