@@ -17,7 +17,5 @@ final test
 Please fork this change
 
 ### Copyright
-copyright notice
-adding a line for rebasing example take 2
-then more to update
+Git Training. All Right Reserved
 
