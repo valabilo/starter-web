@@ -15,10 +15,5 @@ Sample website with plenty of files for demos
 text also here
 final test
 
-<<<<<<< HEAD
 ### Copyright
 copyright notice
-=======
-###Copyright
-copyright notice
->>>>>>> addcopywrite
